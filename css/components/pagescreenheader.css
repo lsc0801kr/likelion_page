@@ -1,0 +1,196 @@
+.screen-header {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  margin-top: 0px;
+  align-items: center;
+  margin-bottom: 15px;
+}
+.screen-header__title {
+  font-size: 40px;
+  font-weight: 600;
+  padding-left: 15px;
+  color: orangered;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+.search {
+  color: gray;
+  border-color: gray;
+  background-color: rgb(233, 235, 236);
+}
+.screen-header_icon :hover {
+  color: yellowgreen;
+}
+.icon1 {
+  padding-right: 10px;
+}
+.icon2 {
+  padding-right: 10px;
+}
+.icon3 {
+  padding-right: 10px;
+}
+.icon4 {
+  padding-right: 10px;
+}
+.icon5 {
+  padding-right: 10px;
+}
+
+.search {
+  width: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: 2px solid gray;
+  border-radius: 5px;
+  height: 25px;
+}
+.space_1 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.picturesa {
+  display: flex;
+  margin: 10px 0px;
+  height: 930px;
+  background-color: blanchedalmond;
+  padding: 0;
+  justify-content: space-evenly;
+  border-radius: 20px;
+}
+.profile {
+  margin: 10px;
+}
+.pica {
+  display: flex;
+  margin: 10px;
+  height: 450px;
+  width: 450px;
+  border-radius: 20px;
+}
+.picb {
+  margin: 10px;
+  height: 450px;
+  width: 450px;
+  border-radius: 20px;
+}
+.picc {
+  position: absolute;
+  margin-top: 470px;
+  margin-left: -235px;
+  height: 450px;
+  width: 450px;
+  border-radius: 20px;
+}
+.picd {
+  position: absolute;
+  margin-top: 470px;
+  margin-left: 235px;
+  height: 450px;
+  width: 450px;
+  border-radius: 20px;
+}
+.icon10 {
+  margin-left: 10px;
+  padding-right: 20px;
+}
+.icon11 {
+  padding-right: 20px;
+}
+.icon12 {
+  padding-right: 20px;
+}
+.icon13 {
+  margin-left: 670px;
+  margin-bottom: 20px;
+}
+.undericon1 :hover {
+  color: tomato;
+}
+.picture_1 {
+  width: 950px;
+  height: 1370px;
+  padding: 5px 10px;
+  border: 1px solid gray;
+  background-color: white;
+  border-radius: 10px;
+}
+.heshtagone {
+  margin-left: 20px;
+  font-size: 23px;
+  font-style: normal;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+.minute {
+  font-size: 20px;
+  color: gray;
+}
+.self {
+  align-items: center;
+  justify-content: center;
+  font-size: 30px;
+  font-style: normal;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  margin-bottom: 30px;
+  font-family: initial;
+}
+.space_2 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.picture_2 {
+  padding: 5px 10px;
+  width: 950px;
+  height: 1370px;
+  border: 1px solid gray;
+  background-color: white;
+  border-radius: 10px;
+}
+.picturesb {
+  display: flex;
+  margin: 10px 0px;
+  height: 930px;
+  background-color: blanchedalmond;
+  padding: 0;
+  justify-content: space-evenly;
+  border-radius: 20px;
+}
+.pic2a {
+  margin: 10px;
+  height: 910px;
+  width: 930px;
+  border-radius: 20px;
+}
+.space_3 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.picture_3 {
+  padding: 5px 10px;
+  width: 950px;
+  height: 1370px;
+  border: 1px solid gray;
+  background-color: white;
+  border-radius: 10px;
+}
+.picturesc {
+  display: flex;
+  margin: 10px 0px;
+  height: 930px;
+  background-color: blanchedalmond;
+  padding: 0;
+  justify-content: space-evenly;
+  border-radius: 20px;
+}
+.end {
+  width: 100%;
+  flex-direction: column;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: rgb(55, 0, 255);
+}
